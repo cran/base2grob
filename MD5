@@ -1,0 +1,11 @@
+5f3bb061b4c93ab3eddad1cbec315b39 *DESCRIPTION
+835a982df0b870bdd3657a168fdd8aee *NAMESPACE
+e0fe1e57b35fde3d4b80dec565e10606 *R/base2grob.R
+a96fde328cb8ed6d16cc3edd5080c8b1 *R/base_plot_fun.R
+91dae2be13713d3d653244d5486d7fb9 *R/grid-draw.R
+34f0f60ae5da7bdb8ac8add5d197456f *build/vignette.rds
+eaa62b68c8a87e7aba54743bc8448cc4 *inst/doc/base2grob.R
+72b7419054f3cf4f957202eebf0cf29b *inst/doc/base2grob.Rmd
+a2541d4126164da93b3c95504f627bae *inst/doc/base2grob.html
+b2d7c53476b935fe18426b6300342e8e *man/base2grob.Rd
+72b7419054f3cf4f957202eebf0cf29b *vignettes/base2grob.Rmd
